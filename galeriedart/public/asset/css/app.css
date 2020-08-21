@@ -1,0 +1,22 @@
+*{
+  box-sizing:border-box;                                        
+ }
+
+ body, html{
+   margin: 0;
+   
+ }
+
+ html, footer {
+  margin: 0;
+  background: #99a8b7;
+}
+
+#logo{
+  color: white;
+}
+
+#menu {
+  color: white;
+}
+

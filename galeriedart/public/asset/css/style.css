@@ -1,0 +1,42 @@
+*{
+  box-sizing:border-box;                                        
+ }
+
+ body{
+   margin: 0;
+   width: 100vw;
+   height: 100vh;
+   
+ }
+
+
+.logo{
+  color: white;
+}
+
+#menu {
+  color: white;
+  background-color: bisque;
+}
+
+#listemenu {
+  color: white;
+}
+
+.dropdown-item {
+  color: white;
+}
+
+.navbar{
+  display: flex;
+  flex-direction: row;
+}
+/* .image-header{
+  width: 100vw;
+  height: 100vh;
+} */
+
+
+
+
+
